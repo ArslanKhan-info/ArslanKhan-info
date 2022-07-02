@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArslanKhan-info
+- 👋 Hi, I’m Arslan Khan
 - 👀 I’m interested in learning diffrent Programing Languages
 - 🌱 I’m currently learning React.js
 - 📫  Contact no- 8528774047
